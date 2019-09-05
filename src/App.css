@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: flex;
+    align-items: center;
+    background: #0dc0c0;
+    
+}
+.App-nav ul{
+    display: flex;
+    list-style-type: none;
+}
+.App-nav li a{
+    margin: 0 10px; 
+    text-decoration: none;
+    color: #363434;   
+}
